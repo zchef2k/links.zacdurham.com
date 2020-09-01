@@ -2,4 +2,4 @@
 
 #### Like it? Fork the template, it only takes a few minutes to get up and going. -zd
 
-[Template](https://zchef2k.github.io/indigo-linkinbio)
+[Template](https://github.com/zchef2k/indigo-linkinbio)
